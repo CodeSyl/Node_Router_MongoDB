@@ -1,0 +1,8 @@
+{
+    "URL": "mongodb://localhost:27017/movies",
+    "port": 6464,
+    "bodyLimit": "100kb",
+    "corsHeaders": [
+        "Link"
+    ]
+}
